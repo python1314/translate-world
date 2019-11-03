@@ -1,6 +1,3 @@
-## 外文来源
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [DEV Community](https://dev.to/)
-- 更多..
-
 ## 翻译列表
+
+- 小磊哥er的外文翻译：[https://github.com/yzsunlei/javascript-article-translate](https://github.com/yzsunlei/javascript-article-translate)
